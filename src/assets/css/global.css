@@ -1,0 +1,22 @@
+html, body, #app {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  min-width: 1366px;
+}
+
+.submit {
+  width: 100px;
+  background: #409EFF;
+  color: aliceblue;
+}
+
+.code {
+  height: 40px;
+  width: 100px;
+}
+
+.el-breadcrumb {
+  margin: 10px 20px;
+}
